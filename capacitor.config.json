@@ -1,0 +1,11 @@
+{
+  "appId": "com.geekmagnetinc.pixelrecall",
+  "appName": "Pixel Recall",
+  "webDir": "www",
+  "ios": {
+    "packageClassList": [
+      "AdMobPlugin",
+      "ICloudSyncPlugin"
+    ]
+  }
+}
